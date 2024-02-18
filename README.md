@@ -2,5 +2,5 @@
 A project to recreate the videogame Vampire Killer.
 
 ## Credits
-Haosheng Li: HaosLii
+Haosheng Li: HaosLii/
 Arnau Balasch: Balar05
