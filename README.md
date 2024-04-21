@@ -32,6 +32,8 @@ D: Decrease player lives.
 
 ESC: return to main menu
 
+F4: automatic win
+
 ## Features
  Player moving, sneaking, jumping and attacking animations.
 
