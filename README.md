@@ -1,12 +1,13 @@
 # Vampire_Killer
 A project to recreate the videogame Vampire Killer.
 
-#Links
+
+## Links
 Main repository:
 
 Provisional and progress repository:
 
-##Video link
+## Video link
 
 Link:
 
