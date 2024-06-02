@@ -1,4 +1,3 @@
-# Vampire Killer
 A project to recreate the videogame Vampire Killer.
 Vampire Killer is a platform RPG video game from the saga Castlevania, and the only one of the saga which was created for the console MSX2. It was released in Japan in 1986
 
