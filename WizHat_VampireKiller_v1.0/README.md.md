@@ -17,9 +17,7 @@ The main goal of the game is to defeat Dracula and bring peace again to Transylv
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mhIrhcZ087c" title="YouTube video player"
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-picture-in-picture" allowfullscreen></iframe>
+[Video link](https://youtu.be/tE6KmjkRSq8)
 
 ## Controls
 Up arrow: Jump and climb up
