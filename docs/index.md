@@ -9,7 +9,7 @@ The main goal of the game is to defeat Dracula and bring peace again to Transylv
 
 Download Alpha version: Insert link
 
-[Main repository](https://github.com/Balar05/Vampire_Killer)
+[Main repository](https://github.com/Balar05/Vampire_Killer])
 
 [Provisional and progress repository](https://github.com/Balar05/VK_Provisional)
 
@@ -30,6 +30,10 @@ Space: Attack
 
 F1: Hitbox debug mode
 
+F2: Activate God mode
+
+F3: Deactivate God mode
+
 1, 2, 3, 4, 5, 6, 7, 8, 9, T, Y, U: Level change debug mode
 
 D: Decrease player lives.
@@ -48,11 +52,11 @@ F4: automatic win
  
  12 different levels.
 3 different enemies:
-* Zombies
-* Bats
-* Final bat boss
+* Zombie
+* Bat
+* Leopard
 
-Objects and contitions to advance.
+Hidden objects and characters.
 
 Functional UI and lives.
 
@@ -63,9 +67,9 @@ Camera limits.
 Initial and final animation.
 
 ## Credits
-Haosheng Li: HaosLii: https://github.com/HaosLii
+Haosheng Li: [HaosLii](https://github.com/HaosLii)
 
-Arnau Balasch: https://github.com/Balar05
+Arnau Balasch: [Balar05](https://github.com/Balar05)
 
 We have both developed the project. However, Haosheng has worked more on the art, enemies, music, UI and the animations. Arnau has worked more on the levels and transitions, the game logic and the objects.  
 
