@@ -15,7 +15,7 @@ The main goal of the game is to defeat Dracula and bring peace again to Transylv
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mhIrhcZ087c" title="YouTube video player"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tE6KmjkRSq8" title="Version 1.0 Video"
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>
 
