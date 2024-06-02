@@ -9,9 +9,9 @@ The main goal of the game is to defeat Dracula and bring peace again to Transylv
 
 Download Alpha version: Insert link
 
-Main repository: https://github.com/Balar05/Vampire_Killer
+[Main repository](https://github.com/Balar05/Vampire_Killer])
 
-Provisional and progress repository: https://github.com/Balar05/VK_Provisional
+[Provisional and progress repository](https://github.com/Balar05/VK_Provisional)
 
 ## Video
 
